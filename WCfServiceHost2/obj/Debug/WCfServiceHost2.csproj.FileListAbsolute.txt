@@ -1,0 +1,11 @@
+D:\Programowanie\PWr\RSI\wcf\WcfServiceHost\WCfServiceHost2\bin\Debug\WCfServiceHost2.exe.config
+D:\Programowanie\PWr\RSI\wcf\WcfServiceHost\WCfServiceHost2\bin\Debug\WCfServiceHost2.exe
+D:\Programowanie\PWr\RSI\wcf\WcfServiceHost\WCfServiceHost2\bin\Debug\WCfServiceHost2.pdb
+D:\Programowanie\PWr\RSI\wcf\WcfServiceHost\WCfServiceHost2\bin\Debug\WcfServiceContract.dll
+D:\Programowanie\PWr\RSI\wcf\WcfServiceHost\WCfServiceHost2\bin\Debug\WcfServiceContract.pdb
+D:\Programowanie\PWr\RSI\wcf\WcfServiceHost\WCfServiceHost2\bin\Debug\WcfServiceContract.dll.config
+D:\Programowanie\PWr\RSI\wcf\WcfServiceHost\WCfServiceHost2\obj\Debug\WCfServiceHost2.csprojAssemblyReference.cache
+D:\Programowanie\PWr\RSI\wcf\WcfServiceHost\WCfServiceHost2\obj\Debug\WCfServiceHost2.csproj.CoreCompileInputs.cache
+D:\Programowanie\PWr\RSI\wcf\WcfServiceHost\WCfServiceHost2\obj\Debug\WCfServiceHost2.csproj.CopyComplete
+D:\Programowanie\PWr\RSI\wcf\WcfServiceHost\WCfServiceHost2\obj\Debug\WCfServiceHost2.exe
+D:\Programowanie\PWr\RSI\wcf\WcfServiceHost\WCfServiceHost2\obj\Debug\WCfServiceHost2.pdb
